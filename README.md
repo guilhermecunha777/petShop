@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto simula o controle de uma máquina de banho para pets, implementado em Python. A aplicação gerencia o abastecimento de água e shampoo, o banho de um pet por vez e a limpeza da máquina, garantindo o uso eficiente dos recursos e o controle do processo de banho.
+Este projeto simula o controle de uma máquina de banho para pets, implementado em java. A aplicação gerencia o abastecimento de água e shampoo, o banho de um pet por vez e a limpeza da máquina, garantindo o uso eficiente dos recursos e o controle do processo de banho.
 
 ## Funcionalidades
 
@@ -26,7 +26,7 @@ Este projeto simula o controle de uma máquina de banho para pets, implementado 
 
 ## Tecnologias
 
-- Python 3.x
+- java 21
 
 ## Como usar
 
